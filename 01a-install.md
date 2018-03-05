@@ -49,15 +49,15 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have installed 3 because all the libraries that were recommened for the course are avaiable in python 3. Also, some syntax is different for both versions but the changes are minor. Majority of the code I have encountered online is formatted for python 3. 
 
-### Q2. Which Python Version Installed   
+### Q2. Which Python Version because 
 
 In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3.6.3 :: Anaconda custom (64-bit)
 
  
 
