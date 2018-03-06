@@ -39,7 +39,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 * finding a file?!?:locate (doesn’t work so well so use the finder. 
 * locating the program: Which cal (tells you where the calendar is located, may insert any other program like python 3) 
 * history - list commands you have used. 
-* List everything in a directory and put it in a file name: ls -al /> dir.txt
+* List everything in a directory and put it in a file: ls -al /> dir.txt
 * sudo commamnds: sudo -s (access root directory, it will ask for password)
 
 
@@ -57,7 +57,19 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+
+
+> > 
+* ls - lists all directories
+* ls -a (List hidden directories) 
+* ls -l (gives a long list of everything with columns) 
+* la -la (gives long list with hidden) 
+* ls -lh (long list , human readable format)
+* ls -lah (long list, list hidden, human readable format) 
+* ls -t (sort by modification time) 
+* ls -Glp (G enable color output, l - list, p-shows link rather than the object it ref) 
+* file file_name <-gives files info or attributes
+
 
 ---
 
