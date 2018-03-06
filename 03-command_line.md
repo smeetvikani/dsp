@@ -77,7 +77,10 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> >
+* ls - lS (lists and sorts the files in the directory by size.) 
+* ls - r (print reverse order of the files requested) 
+* ls -t  (sort by time, newest first)
 
 ---
 
@@ -85,7 +88,17 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > Takes input/arguement from the left and applies the function on the right to each of the elements of the vector(either seperated by spaces or commas). 
+
+Example: 
+* The following command created 3 files (1,2,3 without extension) 
+* Smeets-MBP:u2 honeybadger4$ printf "1\n2\n3\n" | xargs touch
+* creates 3 files. 
+
+Example 2: 
+* Smeets-MBP:u2 honeybadger4$ printf "1\n2\n3\n" | xargs rm
+* removes the 3
+
 
  
 
