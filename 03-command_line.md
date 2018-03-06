@@ -21,8 +21,8 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > >
-###
-*show current working directory path - ls <-lists all directories and files
+
+* show current working directory path - ls <-lists all directories and files
 *entering a directory: cd dir
 *present working directory:pwd
 *go up a dir: cd ..
