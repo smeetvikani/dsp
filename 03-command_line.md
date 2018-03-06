@@ -92,12 +92,12 @@ What does `xargs` do? Give an example of how to use it.
 
 Example: 
 * The following command created 3 files (1,2,3 without extension) 
-* Smeets-MBP:u2 honeybadger4$ printf "1\n2\n3\n" | xargs touch
+* Smeets-MBP:u2 smeetvik$ printf "1\n2\n3\n" | xargs touch
 * creates 3 files. 
 
 Example 2: 
-* Smeets-MBP:u2 honeybadger4$ printf "1\n2\n3\n" | xargs rm
-* removes the 3
+* Smeets-MBP:u2 smeetvik$ printf "1\n2\n3\n" | xargs rm
+* removes the 3 files that were created. 
 
 
  
