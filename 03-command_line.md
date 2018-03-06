@@ -23,24 +23,24 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > >
 
 * show current working directory path - ls <-lists all directories and files
-*entering a directory: cd dir
-*present working directory:pwd
-*go up a dir: cd ..
-*cd by itself goes to home dir: cd ~
-*creating a directory: mkdir folder_name
-*deleting a directory: rmdir dirname
-*removes empty directories in the foldeR: rmdir * 
-*creating a file using touch command:touch file1 file2 file3 (creates 3 blank files)
-*deleting a file (remove): rm f2
-*deleting multiple files: rm f* (remove all files that start with the word f) 
-*renaming a file (move command):mv f1 fmv  (f1 renamed to fmv) 
-*copying a file from one directory to another: cp f3 f3.backup (ls: f3		f3.backup) 
-*listing hidden files: ls -a (shows hidden directories)
-*finding a file?!?:locate (doesn’t work so well so use the finder. 
-*locating the program: Which cal (tells you where the calendar is located, may insert any other program like python 3) 
-*history - list commands you have used. 
-*List everything in a directory and put it in a file name: ls -al /> dir.txt
-*sudo commamnds: sudo -s (access root directory, it will ask for password)
+* entering a directory: cd dir
+* present working directory:pwd
+* go up a dir: cd ..
+* cd by itself goes to home dir: cd ~
+* creating a directory: mkdir folder_name
+* deleting a directory: rmdir dirname
+* removes empty directories in the foldeR: rmdir * 
+* creating a file using touch command:touch file1 file2 file3 (creates 3 blank files)
+* deleting a file (remove): rm f2
+* deleting multiple files: rm f* (remove all files that start with the word f) 
+* renaming a file (move command):mv f1 fmv  (f1 renamed to fmv) 
+* copying a file from one directory to another: cp f3 f3.backup (ls: f3		f3.backup) 
+* listing hidden files: ls -a (shows hidden directories)
+* finding a file?!?:locate (doesn’t work so well so use the finder. 
+* locating the program: Which cal (tells you where the calendar is located, may insert any other program like python 3) 
+* history - list commands you have used. 
+* List everything in a directory and put it in a file name: ls -al /> dir.txt
+* sudo commamnds: sudo -s (access root directory, it will ask for password)
 
 
 
