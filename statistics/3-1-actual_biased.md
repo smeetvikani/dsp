@@ -44,3 +44,4 @@ Plot the actual and biased distributions, and compute their means. As a starting
     thinkplot.show()
 
     ![logo]: https://raw.githubusercontent.com/smeetvikani/dsp/master/statistics/Figure_1.png "Logo Title Text 2"
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
