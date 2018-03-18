@@ -43,6 +43,5 @@ Plot the actual and biased distributions, and compute their means. As a starting
     thinkplot.Config(xlabel='Class size', ylabel='PMF')
     thinkplot.show()
 
-    ![GitHub Logo](/images/logo.png)
-
+    [logo]: https://raw.githubusercontent.com/smeetvikani/dsp/master/statistics/Figure_1.png "Logo Title Text 2"
 
