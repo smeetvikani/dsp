@@ -118,7 +118,10 @@ output: 45.454 %
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+A frequentist would reason by data on hand and disregarding other variables that would increase the rate of prediction. For example: If we are trying to infer what kind of animal population would be on a given area on the map. A frequentist would use data on hand to estimate the population. 
+
+On the other hand, a bayesian tactics would be to use estimated data we have on a given area and also add variables such as water body and trees on the map. These variables help animals thrive and may result in a better prediction model to estimate population in a given area. 
+
 
 ---
 
