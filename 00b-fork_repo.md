@@ -1,4 +1,4 @@
-# Getting Started with GitHub
+# Getting Started with GitHub 
 
 ## Objective
 Github is the most widely used open-source system for version control.  All course documents are stored in a GitHub repository which will be used daily during the bootcamp.  
@@ -68,5 +68,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :smiley: 
+>> :smiley: :smiley:
 
